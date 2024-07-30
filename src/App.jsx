@@ -16,7 +16,7 @@ const App = () => {
   }, []);
   return (
     <div>
-      <h1>CRuD</h1>
+      <h1>CRu00000D</h1>
       <div>
         <Form refetch={Getdata} />
       </div>
